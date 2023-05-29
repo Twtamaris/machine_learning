@@ -1,1 +1,2 @@
+creadit_card_fault/creditcard.csv filter=lfs diff=lfs merge=lfs -text
 *creditcard.csv filter=lfs diff=lfs merge=lfs -text
