@@ -70,5 +70,5 @@ This project explores interactive gaming using two distinct approaches:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/interactive-vision-games.git
-   cd interactive-vision-games
+   git clone https://github.com/Twtamaris/machine_learning
+   cd Hand_detection_with_game
